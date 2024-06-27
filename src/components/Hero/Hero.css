@@ -1,0 +1,45 @@
+.mainhero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 31%;
+}
+
+.head{
+    font-size: 10vh;
+    font-weight: bolder;
+}
+
+.buttons{
+margin-bottom: 10%;
+}
+.b1{
+    width: 20%;
+    font-weight: bolder;
+    background-color: red;
+    padding: 2% 0;
+}
+
+.b2{
+    width: 20%;
+    font-weight: bolder;
+    background-color: white;
+    color: black;
+    margin: 0 10px;
+    padding: 2% 0;
+    border: 1px solid grey;
+}
+
+.heroimage img{
+    margin: 15% 0;
+    width: 90%;
+    height: auto;
+}
+
+.img1{
+margin-right: 2%;
+}
+
+.img2{
+    margin: 0 2%;
+}
